@@ -1,0 +1,43 @@
+body {
+  background-color: #f8faf8;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.header h1 {
+  font-size: 1.8rem;
+}
+
+.item-row {
+  transition: background-color 0.15s ease;
+}
+
+.item-row:hover {
+  background-color: #f0faf0;
+}
+
+.card {
+  border: none;
+  border-radius: 12px;
+}
+
+.card-header {
+  border-radius: 12px 12px 0 0 !important;
+}
+
+.btn-success {
+  background-color: #2e7d32;
+  border-color: #2e7d32;
+}
+
+.btn-success:hover {
+  background-color: #1b5e20;
+  border-color: #1b5e20;
+}
+
+.text-success {
+  color: #2e7d32 !important;
+}
+
+.badge.bg-success {
+  background-color: #2e7d32 !important;
+}
