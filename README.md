@@ -14,7 +14,7 @@ main
 
 Tecnologias utilizadas:
 
-* Java 17
+* Java 21
 * Spring Boot
 * Spring Data JPA
 * H2 Database
